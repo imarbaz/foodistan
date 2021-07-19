@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "700766374408",
+    "project_id": "foodistan-production",
+    "storage_bucket": "foodistan-production.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700766374408:android:b608f5f375e5445f705fbd",
+        "android_client_info": {
+          "package_name": "com.foodistan.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700766374408-ti3ellcj67rn0l6l6isf9fqb4qrn0jp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9j9V0ouFV0xdjiJlPvWK1Gsi0I99d7MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700766374408-ti3ellcj67rn0l6l6isf9fqb4qrn0jp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
